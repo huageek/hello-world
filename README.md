@@ -1,2 +1,3 @@
 # hello-world
-a short description
+Hi Humans!
+Robots are coming!
